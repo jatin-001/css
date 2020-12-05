@@ -1,0 +1,126 @@
+.body {
+    margin: 0 2px 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    font-weight: bold;
+	color: #40514E;
+}
+
+.cloud1 {
+    position: relative;
+    left: 27%;
+    top: 20px;
+    right: 0%;
+    padding-bottom: 0px;
+}
+
+.top_container {
+    background-color: #e4f9f5;
+    padding: 0;
+    height: 603px;
+}
+
+.cloud2 {
+    position: absolute;
+    left: 12%;
+    top: 163px;
+}
+
+.middle_container {
+    padding: 100px;
+    background-color: white;
+}
+.skills .skill-row  {
+    margin: 100px auto;
+    width: 74%;
+    text-align: center;
+    line-height: auto;
+}
+
+
+
+.middle_container .profile .profile_image {
+	height: 100px;
+	width:100px;
+}
+
+
+.bottom_container {
+    background-color: #66bfbf;
+}
+
+.pro {
+  text-decoration: underline;
+}
+.professor {
+    font-family: 'Sacramento', cursive;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 90px;
+    top: auto;
+    bottom: 48px;
+    position: relative;
+    color: #66BFBF;
+}
+.professional {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-size: 32px;
+    position: relative;
+    bottom: 75px;
+    color: #66bfbf;
+	line-height: 1;
+}
+.mountain {
+    left: auto;
+    width: auto;
+    position: relative;
+    bottom: 129px;
+}
+.h1 {
+    color: #66bfbf;
+}
+
+p {
+    line-height: 2;
+    font-size: medium;
+}
+
+h2 {
+	color:#66bfbf;
+}
+
+h3 {
+	color:#66bfbf;
+}
+
+.skill_image {
+    width: 25%;
+    float: left;
+    margin-right: 56px;
+}
+.chilli_image {
+    width: 25%;
+    float: right;
+    margin-left: 56px;
+}
+
+.footer-link {
+    color: #11999e;
+    opacity: 1;
+    text-decoration: none;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-width: 5px;
+  border-color: #222831;
+	margin:100px auto;
+}
+
+.skills {
+    margin: 100px;
+    width: auto;
+}
